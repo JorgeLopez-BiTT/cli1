@@ -10,3 +10,7 @@ node_modules/
 # playwright-cli / playwright-mcp temp session files
 .playwright-cli/
 .playwright-mcp/
+
+# Allure
+allure-results/
+allure-report/
